@@ -1,6 +1,9 @@
 # 📊 Customer Support Ticket Trend & Root Cause Analysis
 
 ---
+## 📊 Power BI Dashboard
+
+![Customer support Dashboard](Customer-support-dashboard.png)
 
 ## 📌 Business Problem
 
